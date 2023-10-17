@@ -1,8 +1,8 @@
 # Data Analytics Projects:
 
-This repository is for some of the projects I have worked on, in the past.
+This repository showcases some of my analytics projects.
 
-I'm a versatile individual with experience collecting, transforming and organizing data for analysis to help make informed decisions. I possess excellent understanding and proficiency of platforms for effective data analysis including SQL, Spreadsheets, Tableau, R and Python.
+I'm a versatile individual with experience collecting, transforming and organizing data for analysis to help make informed decisions and possess excellent understanding and proficiency of platforms for effective data analysis including SQL, Spreadsheets, Tableau, R and Python.
 
 
 ## Project 1 - Bellabeat Case Study
