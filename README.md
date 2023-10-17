@@ -12,3 +12,5 @@ Tools used:
 * SQL (BigQuery)
 * Google Sheets / Excel 
 * Tableau
+
+Directory Link - <https://github.com/kunalbarthwal/portfolio/tree/main/1.%20Bellabeat%20Case%20Study>
