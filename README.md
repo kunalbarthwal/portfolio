@@ -44,18 +44,13 @@ Tools:
 * Most people prefer automatic report generation, accounting for more than 50% of the reports generated.
 
 ### Step 5 - SHARE
-* The data contains metrics like calories, steps, intensity, etc. which can be used to provide basic goals/targets in the app/watch interface.
-* Lightly active distance covers a large amount of total active distance.
-* Sedentary minutes takes up more than 50%  of the total active minutes.
-* On an average, 15.8% of the time, the device was inactive (charging or not worn)
+* We will now create data visualizations using Tableau.
+* Then, we will draft an effective presentation for our meeting with the stakeholders.
+
+### Step 6 - ACT
+* Based on our analysis, there are plenty of parameters that can be utilized effectively to create new features and increase device/app interaction.
+* We can apply these insights by creating new features, alerts such as vibrations/app notifications for critical health features/personal targets and health scores to attract customers.
+* Stakeholders can collaborate with R&D and marketing team to develop and test new features.
 
 
-1) First of all, we performed data cleaning using spreadsheets. This process included removing duplicates, fixing incorrect formats and handling missing data.
-2) Next up, we 
-
-Tools used:
-* SQL (BigQuery)
-* Google Sheets / Excel 
-* Tableau
-
-Directory Link - <https://github.com/kunalbarthwal/portfolio/tree/main/1.%20Bellabeat%20Case%20Study>
+Case Study Link - <https://github.com/kunalbarthwal/portfolio/tree/main/1.%20Bellabeat%20Case%20Study>
