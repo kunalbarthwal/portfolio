@@ -3,9 +3,9 @@
 
 ### Step 1 - Created new columns for active_distance, active_minutes and total_minutes:
 
-SELECT 
- Id,
- ActivityDate,
+*SELECT 
+* Id,
+* ActivityDate,
  TotalSteps,
  TotalDistance,
  TrackerDistance,
