@@ -1,7 +1,7 @@
-##This file inlcudes the steps taken for analyzing data using SQL (BigQuery)
+## This file inlcudes the steps taken for analyzing data using SQL (BigQuery)
 
 
-###Step 1 - Created new columns for active_distance, active_minutes and total_minutes:
+### Step 1 - Created new columns for active_distance, active_minutes and total_minutes:
 
 SELECT 
  Id,
@@ -28,7 +28,7 @@ ORDER BY
  Id, ActivityDate
 
 
-2) USED SQL TO FILTER OUT THE AVERAGE VALUES, ORDERED BY DATES:
+### Step 2 - Filtered the average values, ordered by date:
 
 SELECT 
  ActivityDate AS activity_date,
@@ -54,7 +54,7 @@ GROUP BY ActivityDate
 ORDER BY ActivityDate
 
 
-3) We merged the hourly calories, intensities and steps data into a single table using JOIN via SQL:
+### Step 3 - Merged the hourly calories, intensities and steps data into a single table using JOIN:
 
 SELECT 
  hourly_calories.Id AS id,
@@ -84,7 +84,7 @@ ORDER BY
  hourly_intensities.ActivityHour
 
 
-4) We will sort the hourly data by taking average by date and time:
+### Step 4 - Sorted the hourly data by taking average by date and time:
 
 SELECT 
  activity_date,
@@ -100,7 +100,7 @@ GROUP BY
  activity_hour
 
 
-5) We will sort the hourly data by taking average by time:
+### Step 5 - Sorted the hourly data by taking average by time:
 
 SELECT 
  activity_hour,
@@ -113,17 +113,15 @@ FROM
 GROUP BY 
  activity_hour
 
-
-(You can use the following to aggregate the date and time into a datetime format, if needed:
+You can use the following to aggregate the date and time into a datetime format, if needed:
 
 SELECT *,
 cast(concat(activity_date, ' ', activity_hour) as datetime) AS time_stamp
 FROM `my-project-wangs.bellabeat.hourly_activity_merged_v2` 
 ORDER BY time_stamp
-)
 
 
-6) Worked with the minute METs, calories, intensities and steps data and merged them into minute_activity_merged table via SQL JOIN:
+### Step 6 - Used minute METs, calories, intensities and steps data and merged them into minute_activity_merged table via JOIN:
 
 SELECT 
  minute_METs.Id AS id,
@@ -159,7 +157,7 @@ ORDER BY
  minute_METs.ActivityMinute
 
 
-7) We will sort the minute data by taking average by date and time:
+### Step 7 - Sorted the minute data by taking average by date and time:
 
 SELECT 
  activity_date,
@@ -174,17 +172,15 @@ GROUP BY
  activity_date,
  activity_minute
 
-(You can use the following to aggregate the date and time into a datetime format, if needed:
+You can use the following to aggregate the date and time into a datetime format, if needed:
 
 SELECT *,
 cast(concat(activity_date, ' ', activity_minute) as datetime) AS time_stamp
 FROM `my-project-wangs.bellabeat.minute_activity_merged_v2` 
 ORDER BY time_stamp
-)
 
 
-
-8) We will sort the minute data by taking average by time:
+### Step 8 - Sorted the minute data by taking average by time:
 
 SELECT 
  activity_minute,
@@ -198,8 +194,7 @@ GROUP BY
  activity_minute
 
 
-
-9) Working with minute_sleep_merged data, we will take average of sleep_value by id, activitydate and logid:
+### Step 9 - Using minute_sleep_merged data, took average of sleep_value by id, activitydate and logid:
 
 SELECT
 Id,
@@ -214,7 +209,7 @@ GROUP BY
  activity_date
 
 
-10) In the next step, we take average by id:
+### Step 10 - Took average by id:
 
 SELECT
 Id,
@@ -225,7 +220,7 @@ GROUP BY
  Id
 
 
-11) For the sleep_day_merged data, we will take average of all integer values by ID:
+### Step 11 - Using sleep_day_merged data, took average of all integer values by ID:
 
 SELECT 
  Id,
@@ -238,7 +233,7 @@ GROUP BY
 Id
 
 
-12) For the weightLoginfo_merged data, we don't need to perform much cleaning and processing as the data is short and speaks for itself. We'll just rename the columns:
+### Step 12 - For the weightLoginfo_merged data, we don't need to perform cleaning and processing as the data is short and speaks for itself. We'll just rename the columns:
 
 SELECT 
 Id AS id,
@@ -251,7 +246,7 @@ LogId AS log_id
 FROM `my-project-wangs.bellabeat.weight_log_info_merged` 
 
 
-13) Now we will rename columns for heartrate_seconds_merged:
+### Step 13 - Rename columns for heartrate_seconds_merged:
 
 SELECT 
 Id AS id,
@@ -262,7 +257,7 @@ Value AS bpm
 FROM `my-project-wangs.bellabeat.heartrate_seconds_merged` 
 
 
-14) Now we will take max and min values of heartrate by id and date:
+### Step 14 - Took max and min values of heartrate by id and date:
 
 SELECT 
  id,
@@ -276,7 +271,7 @@ id,
 date
 
 
-15) Now we sort the data via id:
+### Step 15 - Sorted the data via id:
 
 SELECT 
  id,
@@ -286,8 +281,3 @@ FROM
  `my-project-wangs.bellabeat.heartrate_seconds_merged_v2` 
 GROUP BY
 id
-
-
-
-
-
