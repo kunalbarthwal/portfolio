@@ -10,10 +10,10 @@ I'm a versatile individual with experience collecting, transforming and organizi
 
 **For this project, we followed a six step analysis process.**
 
-*Tools:
-- Data Cleaning (Spreadsheets)
-- Data Analysis (SQL / BigQuery)
-- Data Visualization (Tableau)*
+**Tools:**
+_- Data Cleaning (Spreadsheets)_
+_- Data Analysis (SQL / BigQuery)_
+_- Data Visualization (Tableau)*_
 
 ### Step 1 - ASK 
 * In this step, we will define the Business Task and identify stakeholders.
