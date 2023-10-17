@@ -10,7 +10,7 @@ I'm a versatile individual with experience collecting, transforming and organizi
 
 **For this project, we followed a six step analysis process.**
 
-**Tools:**
+Tools:
 - Data Cleaning (Spreadsheets)
 - Data Analysis (SQL / BigQuery)
 - Data Visualization (Tableau)
