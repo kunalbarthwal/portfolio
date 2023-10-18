@@ -19,7 +19,7 @@ I'm a versatile individual with experience collecting, transforming and organizi
 
 ### Step 2 - PREPARE
 * In this step, we will identify data sources.
-* **Data Source** - Kaggle <https://www.kaggle.com/datasets/arashnic/fitbit>
+* **Data Source** - <https://www.kaggle.com/datasets/arashnic/fitbit>
 * Data is well organized, with the option of both wide and long data.
 * The data is reliable and is anonymized.
 
