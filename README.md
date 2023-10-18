@@ -47,6 +47,9 @@ I'm a versatile individual with experience collecting, transforming and organizi
 
 ![alt text](https://github.com/kunalbarthwal/portfolio/blob/main/1.%20Bellabeat%20Case%20Study/Tableau%20Visualizations/Daily%20Active%20Distance.png "Daily Active Distance")
 
+![alt text](https://github.com/kunalbarthwal/portfolio/blob/main/1.%20Bellabeat%20Case%20Study/Tableau%20Visualizations/Sleep%20Value.png
+ "Average Sleep Value")
+
 
 ### Step 6 - ACT
 * Based on our analysis, there are plenty of parameters that can be utilized effectively to create new features and increase device/app interaction.
