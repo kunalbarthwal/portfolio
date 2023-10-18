@@ -45,7 +45,7 @@ I'm a versatile individual with experience collecting, transforming and organizi
 * We will now create data visualizations using Tableau.
 * Then, we will draft an effective presentation for our meeting with the stakeholders.
 
-![alt text](https://github.com/kunalbarthwal/portfolio/1. Bellabeat Case Study/Tableau Visualizations/Daily Active Distance.png "Daily Active Distance")
+![alt text](https://github.com/kunalbarthwal/portfolio/blob/main/1.%20Bellabeat%20Case%20Study/Tableau%20Visualizations/Daily%20Active%20Distance.png "Daily Active Distance")
 
 
 ### Step 6 - ACT
