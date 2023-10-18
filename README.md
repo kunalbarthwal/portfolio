@@ -45,6 +45,9 @@ I'm a versatile individual with experience collecting, transforming and organizi
 * We will now create data visualizations using Tableau.
 * Then, we will draft an effective presentation for our meeting with the stakeholders.
 
+![alt text](https://github.com/kunalbarthwal/portfolio/1. Bellabeat Case Study/Tableau Visualizations/Daily Active Distance.png "Daily Active Distance")
+
+
 ### Step 6 - ACT
 * Based on our analysis, there are plenty of parameters that can be utilized effectively to create new features and increase device/app interaction.
 * We can apply these insights by creating new features, alerts such as vibrations/app notifications for critical health features/personal targets and health scores to attract customers.
