@@ -12,6 +12,8 @@ I'm a versatile individual with experience collecting, transforming and organizi
 
 **Tools** - SQL (BigQuery), Spreadsheets and Tableau
 
+**Case Study** - <https://github.com/kunalbarthwal/portfolio/tree/main/1.%20Bellabeat%20Case%20Study>
+
 ### Step 1 - ASK 
 * In this step, we will define the Business Task and identify stakeholders.
 * **Business Task** - Analyze smart device user data in order to gain insights into how customers use non-Bellabeat smart devices. Then apply these insights to Bellabeat Leaf.
@@ -56,4 +58,3 @@ I'm a versatile individual with experience collecting, transforming and organizi
 
 ![Conclusion](https://github.com/kunalbarthwal/portfolio/blob/main/1.%20Bellabeat%20Case%20Study/Tableau%20Visualizations/Conclusion.png)
 
-**Case Study** - <https://github.com/kunalbarthwal/portfolio/tree/main/1.%20Bellabeat%20Case%20Study>
