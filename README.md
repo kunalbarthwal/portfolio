@@ -1,7 +1,5 @@
 # Data Analytics Projects:
 
-**Repository** - <https://github.com/kunalbarthwal/portfolio>
-
 This repository showcases some of my analytics projects.
 
 I'm a versatile individual with experience collecting, transforming and organizing data for analysis to help make informed decisions and possess excellent proficiency of platforms for effective data analysis including SQL, Python, R, Spreadsheets and Tableau.
@@ -58,4 +56,4 @@ I'm a versatile individual with experience collecting, transforming and organizi
 
 ![Conclusion](https://github.com/kunalbarthwal/portfolio/blob/main/1.%20Bellabeat%20Case%20Study/Tableau%20Visualizations/Conclusion.png)
 
-**Case Study Link** - <https://github.com/kunalbarthwal/portfolio/tree/main/1.%20Bellabeat%20Case%20Study>
+**Case Study** - <https://github.com/kunalbarthwal/portfolio/tree/main/1.%20Bellabeat%20Case%20Study>
