@@ -45,16 +45,15 @@ I'm a versatile individual with experience collecting, transforming and organizi
 * We will now create data visualizations using Tableau.
 * Then, we will draft an effective presentation for our meeting with the stakeholders.
 
-![Daily Active Distance](https://github.com/kunalbarthwal/portfolio/blob/main/1.%20Bellabeat%20Case%20Study/Tableau%20Visualizations/Daily%20Active%20Distance.png "Daily Active Distance")
+![Daily Active Distance](https://github.com/kunalbarthwal/portfolio/blob/main/1.%20Bellabeat%20Case%20Study/Tableau%20Visualizations/Daily%20Active%20Distance.png)
 
-![Average Sleep Value](https://github.com/kunalbarthwal/portfolio/blob/main/1.%20Bellabeat%20Case%20Study/Tableau%20Visualizations/Sleep%20Value.png
- "Average Sleep Value")
+![Average Sleep Value](https://github.com/kunalbarthwal/portfolio/blob/main/1.%20Bellabeat%20Case%20Study/Tableau%20Visualizations/Sleep%20Value.png)
 
 ### Step 6 - ACT
 * Based on our analysis, there are plenty of parameters that can be utilized effectively to create new features and increase device/app interaction.
 * We can apply these insights by creating new features, alerts such as vibrations/app notifications for critical health features/personal targets and health scores to attract customers.
 * Stakeholders can collaborate with R&D and marketing team to develop and test new features.
 
-![Conclusion](https://github.com/kunalbarthwal/portfolio/blob/main/1.%20Bellabeat%20Case%20Study/Tableau%20Visualizations/Conclusion.png "Conclusion")
+![Conclusion](https://github.com/kunalbarthwal/portfolio/blob/main/1.%20Bellabeat%20Case%20Study/Tableau%20Visualizations/Conclusion.png)
 
 **Case Study Link** - <https://github.com/kunalbarthwal/portfolio/tree/main/1.%20Bellabeat%20Case%20Study>
