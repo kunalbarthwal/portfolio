@@ -56,5 +56,8 @@ I'm a versatile individual with experience collecting, transforming and organizi
 * We can apply these insights by creating new features, alerts such as vibrations/app notifications for critical health features/personal targets and health scores to attract customers.
 * Stakeholders can collaborate with R&D and marketing team to develop and test new features.
 
+![Conclusion](https://github.com/kunalbarthwal/portfolio/blob/main/1.%20Bellabeat%20Case%20Study/Tableau%20Visualizations/Conclusion.png "Conclusion")
+
+
 
 Case Study Link - <https://github.com/kunalbarthwal/portfolio/tree/main/1.%20Bellabeat%20Case%20Study>
