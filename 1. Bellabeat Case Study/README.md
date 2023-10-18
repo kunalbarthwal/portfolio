@@ -49,4 +49,4 @@
 
 ![Conclusion](https://github.com/kunalbarthwal/portfolio/blob/main/1.%20Bellabeat%20Case%20Study/Tableau%20Visualizations/Conclusion.png "Conclusion")
 
-**Case Study Link** - <https://github.com/kunalbarthwal/portfolio/tree/main/1.%20Bellabeat%20Case%20Study>
+**Case Study** - <https://github.com/kunalbarthwal/portfolio/tree/main/1.%20Bellabeat%20Case%20Study>
