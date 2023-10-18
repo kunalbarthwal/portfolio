@@ -8,11 +8,12 @@ I'm a versatile individual with experience collecting, transforming and organizi
 
 ## Project 1 - Bellabeat Case Study
 
+**Case Study** - <https://github.com/kunalbarthwal/portfolio/tree/main/1.%20Bellabeat%20Case%20Study>
+
 **For this project, we followed a six step analysis process**
 
 **Tools** - SQL (BigQuery), Spreadsheets and Tableau
 
-**Case Study** - <https://github.com/kunalbarthwal/portfolio/tree/main/1.%20Bellabeat%20Case%20Study>
 
 ### Step 1 - ASK 
 * In this step, we will define the Business Task and identify stakeholders.
