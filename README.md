@@ -8,8 +8,6 @@ I'm a versatile individual with experience collecting, transforming and organizi
 
 ## Project 1 - Bellabeat Case Study
 
-**Case Study** - <https://github.com/kunalbarthwal/portfolio/tree/main/1.%20Bellabeat%20Case%20Study>
-
 **For this project, we followed a six step analysis process**
 
 **Tools** - SQL (BigQuery), Spreadsheets and Tableau
@@ -59,3 +57,4 @@ I'm a versatile individual with experience collecting, transforming and organizi
 
 ![Conclusion](https://github.com/kunalbarthwal/portfolio/blob/main/1.%20Bellabeat%20Case%20Study/Tableau%20Visualizations/Conclusion.png)
 
+**Case Study** - <https://github.com/kunalbarthwal/portfolio/tree/main/1.%20Bellabeat%20Case%20Study>
