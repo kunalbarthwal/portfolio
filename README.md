@@ -45,11 +45,10 @@ I'm a versatile individual with experience collecting, transforming and organizi
 * We will now create data visualizations using Tableau.
 * Then, we will draft an effective presentation for our meeting with the stakeholders.
 
-![alt text](https://github.com/kunalbarthwal/portfolio/blob/main/1.%20Bellabeat%20Case%20Study/Tableau%20Visualizations/Daily%20Active%20Distance.png "Daily Active Distance")
+![Daily Active Distance](https://github.com/kunalbarthwal/portfolio/blob/main/1.%20Bellabeat%20Case%20Study/Tableau%20Visualizations/Daily%20Active%20Distance.png "Daily Active Distance")
 
-![alt text](https://github.com/kunalbarthwal/portfolio/blob/main/1.%20Bellabeat%20Case%20Study/Tableau%20Visualizations/Sleep%20Value.png
+![Average Sleep Value](https://github.com/kunalbarthwal/portfolio/blob/main/1.%20Bellabeat%20Case%20Study/Tableau%20Visualizations/Sleep%20Value.png
  "Average Sleep Value")
-
 
 ### Step 6 - ACT
 * Based on our analysis, there are plenty of parameters that can be utilized effectively to create new features and increase device/app interaction.
@@ -58,6 +57,4 @@ I'm a versatile individual with experience collecting, transforming and organizi
 
 ![Conclusion](https://github.com/kunalbarthwal/portfolio/blob/main/1.%20Bellabeat%20Case%20Study/Tableau%20Visualizations/Conclusion.png "Conclusion")
 
-
-
-Case Study Link - <https://github.com/kunalbarthwal/portfolio/tree/main/1.%20Bellabeat%20Case%20Study>
+**Case Study Link** - <https://github.com/kunalbarthwal/portfolio/tree/main/1.%20Bellabeat%20Case%20Study>
