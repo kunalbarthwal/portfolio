@@ -1,6 +1,6 @@
 # Data Analytics Projects:
 
-**Portfolio Directory** - <https://github.com/kunalbarthwal/portfolio>
+**Repository** - <https://github.com/kunalbarthwal/portfolio>
 
 This repository showcases some of my analytics projects.
 
