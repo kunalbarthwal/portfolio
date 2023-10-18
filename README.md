@@ -1,5 +1,7 @@
 # Data Analytics Projects:
 
+**Portfolio Directory** - <https://github.com/kunalbarthwal/portfolio>
+
 This repository showcases some of my analytics projects.
 
 I'm a versatile individual with experience collecting, transforming and organizing data for analysis to help make informed decisions and possess excellent proficiency of platforms for effective data analysis including SQL, Python, R, Spreadsheets and Tableau.
