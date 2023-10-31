@@ -59,8 +59,6 @@ This repository showcases some of my analytics projects.
 
 **Documentation** - <https://github.com/kunalbarthwal/portfolio/tree/main/2.%20Divvy%20Bikeshare%20Case%20Study>
 
-**Presentation** - <https://github.com/kunalbarthwal/portfolio/blob/main/2.%20Divvy%20Bikeshare%20Case%20Study/Divvy%20Bikeshare%20Analysis%20Case%20Study.pptx>
-
 
 
 ## Project 2 - Bellabeat Data Analysis Case Study
@@ -118,5 +116,4 @@ This repository showcases some of my analytics projects.
 
 **Documentation** - <https://github.com/kunalbarthwal/portfolio/tree/main/1.%20Bellabeat%20Case%20Study>
 
-**Presentation** - <https://github.com/kunalbarthwal/portfolio/blob/main/1.%20Bellabeat%20Case%20Study/Bellabeat%20Data%20Analysis%20Case%20Study.pptx>
 
