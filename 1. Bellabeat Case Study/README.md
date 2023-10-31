@@ -38,9 +38,9 @@
 * We will now create data visualizations using Tableau.
 * Then, we will draft an effective presentation for our meeting with the stakeholders.
 
-<img src="1. Bellabeat Case Study/Tableau Visualizations/Daily Active Distance.png" class="img-responsive" alt="">
+<img src="Tableau Visualizations/Daily Active Distance.png" class="img-responsive" alt="">
 
-<img src="1. Bellabeat Case Study/Tableau Visualizations/Sleep Value.png" class="img-responsive" alt="">
+<img src="Tableau Visualizations/Sleep Value.png" class="img-responsive" alt="">
 
 
 ## Step 6 - ACT
@@ -48,7 +48,7 @@
 * We can apply these insights by creating new features, alerts such as vibrations/app notifications for critical health features/personal targets and health scores to attract customers.
 * Stakeholders can collaborate with R&D and marketing team to develop and test new features.
 
-<img src="1. Bellabeat Case Study/Tableau Visualizations/Conclusion.png" class="img-responsive" alt="">
+<img src="Tableau Visualizations/Conclusion.png" class="img-responsive" alt="">
 
 
 **Documentation** - <https://github.com/kunalbarthwal/portfolio/tree/main/1.%20Bellabeat%20Case%20Study>
