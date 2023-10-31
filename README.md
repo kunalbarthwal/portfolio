@@ -44,7 +44,7 @@ This repository showcases some of my analytics projects.
 
 <img src="2. Divvy Bikeshare Case Study/Data Visualization/Bikes used per Day - Casual Customers.png" class="img-responsive" alt="">
 
-<img src="2. Divvy Bikeshare Case Study/Data Visualization/Top 10 Start Stations - Casual Customers.png" class="img-responsive" alt="">
+<img src="2. Divvy Bikeshare Case Study/Data Visualization/Most Popular Start Stations - Casual Customers.png" class="img-responsive" alt="">
 
 
 ### Step 6 - ACT
