@@ -2,8 +2,6 @@
 
 This repository showcases some of my analytics projects.
 
-I'm a versatile individual with experience collecting, transforming and organizing data for analysis to help make informed decisions and possess excellent proficiency of platforms for effective data analysis including SQL, Python, R, Spreadsheets and Tableau.
-
 
 
 ## Project 1 - Divvy Bikeshare Analysis Case Study
@@ -27,10 +25,7 @@ I'm a versatile individual with experience collecting, transforming and organizi
 ### Step 3 - PROCESS
 * In this step, we will perform data cleaning/manipulation.
 * The data cleaning process included removing duplicates for *ride_id*, changing datatypes of some columns, creating new columns for *trip_duration* and *day* & renaming columns for ease of use.
-* We will verify data integrity via summary statistics functions like *head*, *describe* & *info*.
-
-<img src="2. Divvy Bikeshare Case Study/Data Visualization/Bikes used per Day - Casual Customers.png" class="img-responsive" alt="">
-
+* We will verify data integrity via summary statistics functions like *head*, *describe* & *info* in Python.
 
 ### Step 4 - ANALYZE
 * People tend to use electric bikes the most (52.82%), followed by classic bikes (45.44%).
@@ -39,16 +34,15 @@ I'm a versatile individual with experience collecting, transforming and organizi
 * Casual customers use bikes mostly on weekends (Saturday-Sunday), and Annual members use bikes mostly on weekdays (Monday-Friday).
 * Bikes are most in-demand around 4-6 PM (5 PM Peak) and least in-demand around 3-4 PM.
 * There is a sudden surge in demand for Annual members around 7-9 AM (8 AM Peak), usually when people commute to work.
-* Most popular stations for Casual customers are *Streeter Dr & Grand Ave*, *Dusable Lake Shore Dr & Monroe St* and *Michigan Ave & Oak St*. These areas have museums, parks and tourist streets which confirms that casual members use bikes mostly for social engagements.
-* Most popular stations for Annual members are *Kingsbury St & Kinzie St*, *Clark St & Elm St* and *Clinton St & Washington Blvd*. These areas have apartments, businesses, corporate offices and services like shipping, ecommerce, etc. which confirms that annual members use bikes mostly for commuting to work.
+* Most popular stations for Casual customers are *Streeter Dr & Grand Ave*, *Dusable Lake Shore Dr & Monroe St* and *Michigan Ave & Oak St*. These areas have museums, parks and tourist streets which confirms that casual members use bikes mostly for social engagements on weekends.
+* Most popular stations for Annual members are *Kingsbury St & Kinzie St*, *Clark St & Elm St* and *Clinton St & Washington Blvd*. These areas have apartments, businesses, corporate offices and services like shipping, ecommerce, etc. which confirms that annual members use bikes mostly for commuting to work on weekdays.
 * According to statistical data, average ride duration of casual customers (19:48) is almost twice as annual members (10:50).
-
-<img src="2. Divvy Bikeshare Case Study/Data Visualization/Bikes used per hour - Casual Customers.png" class="img-responsive" alt="">
-
 
 ### Step 5 - SHARE
 * We will now create data visualizations using Matplotlib and Shapely libraries in Python.
 * Then, we will draft an effective presentation.
+
+<img src="2. Divvy Bikeshare Case Study/Data Visualization/Bikes used per Day - Casual Customers.png" class="img-responsive" alt="">
 
 <img src="2. Divvy Bikeshare Case Study/Data Visualization/Top 10 Start Stations - Casual Customers.png" class="img-responsive" alt="">
 
@@ -60,8 +54,10 @@ I'm a versatile individual with experience collecting, transforming and organizi
 * They have almost twice the ride duration of annual members. We can decrease pricing (per minute) for annual members so that casual customers would consider switching to annual memberships.
 * Marketing team can collaborate with the pricing team to make necessary changes and devise an new marketing strategy to convert casual riders to annual members
 
-
 <img src="2. Divvy Bikeshare Case Study/Data Visualization/Conclusion.png" class="img-responsive" alt="">
+
+
+**Presentation** - 
 
 **Documentation** - <https://github.com/kunalbarthwal/portfolio/tree/main/2.%20Divvy%20Bikeshare%20Case%20Study>
 
@@ -111,11 +107,15 @@ I'm a versatile individual with experience collecting, transforming and organizi
 
 <img src="1. Bellabeat Case Study/Tableau Visualizations/Sleep Value.png" class="img-responsive" alt="">
 
+
 ### Step 6 - ACT
 * Based on our analysis, there are plenty of parameters that can be utilized effectively to create new features and increase device/app interaction.
 * We can apply these insights by creating new features, alerts such as vibrations/app notifications for critical health features/personal targets and health scores to attract customers.
 * Stakeholders can collaborate with R&D and marketing team to develop and test new features.
 
 <img src="1. Bellabeat Case Study/Tableau Visualizations/Conclusion.png" class="img-responsive" alt="">
+
+
+**Presentation** - 
 
 **Documentation** - <https://github.com/kunalbarthwal/portfolio/tree/main/1.%20Bellabeat%20Case%20Study>
