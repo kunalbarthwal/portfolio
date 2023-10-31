@@ -50,7 +50,7 @@ I'm a versatile individual with experience collecting, transforming and organizi
 * We will now create data visualizations using Matplotlib and Shapely libraries in Python.
 * Then, we will draft an effective presentation.
 
-<img src="2. Divvy Bikeshare Case Study/Data Visualization/Most Popular Start Stations - Casual Customers.png" class="img-responsive" alt="">
+<img src="2. Divvy Bikeshare Case Study/Data Visualization/Top 10 Start Stations - Casual Customers.png" class="img-responsive" alt="">
 
 
 ### Step 6 - ACT
