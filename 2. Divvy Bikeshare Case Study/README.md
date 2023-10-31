@@ -36,9 +36,9 @@
 * We will now create data visualizations using Matplotlib and Shapely libraries in Python.
 * Then, we will draft an effective presentation.
 
-<img src="2. Divvy Bikeshare Case Study/Data Visualization/Bikes used per Day - Casual Customers.png" class="img-responsive" alt="">
+<img src="Data Visualization/Bikes used per Day - Casual Customers.png" class="img-responsive" alt="">
 
-<img src="2. Divvy Bikeshare Case Study/Data Visualization/Most Popular Start Stations - Casual Customers.png" class="img-responsive" alt="">
+<img src="Data Visualization/Most Popular Start Stations - Casual Customers.png" class="img-responsive" alt="">
 
 
 ## Step 6 - ACT
@@ -48,10 +48,9 @@
 * They have almost twice the ride duration of annual members. We can decrease pricing (per minute) for annual members so that casual customers would consider switching to annual memberships.
 * Marketing team can collaborate with the pricing team to make necessary changes and devise an new marketing strategy to convert casual riders to annual members
 
-<img src="2. Divvy Bikeshare Case Study/Data Visualization/Conclusion.png" class="img-responsive" alt="">
+<img src="Data Visualization/Conclusion.png" class="img-responsive" alt="">
 
 
 **Documentation** - <https://github.com/kunalbarthwal/portfolio/tree/main/2.%20Divvy%20Bikeshare%20Case%20Study>
 
-**Presentation** - <https://github.com/kunalbarthwal/portfolio/blob/main/2.%20Divvy%20Bikeshare%20Case%20Study/Divvy%20Bikeshare%20Analysis%20Case%20Study.pptx>
 
