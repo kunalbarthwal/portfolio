@@ -46,6 +46,7 @@
 * Since casual customers use electric bikes the most, we can structure the pricing plan in such a way that it costs less for using an electric bike when you are an annual member.
 * They mostly use bikes on weekends. We can provide plans or discounts on weekends for those who have purchased annual subscriptions.
 * They have almost twice the ride duration of annual members. We can decrease pricing (per minute) for annual members so that casual customers would consider switching to annual memberships.
+* Bikes peak in demand at 5 PM. We can provide enhanced bike availability for annual members during rush hour, so that casual customers realize that annual membership is worth it.
 * Marketing team can collaborate with the pricing team to make necessary changes and devise an new marketing strategy to convert casual riders to annual members
 
 <img src="Data Visualization/Conclusion.png" class="img-responsive" alt="">
