@@ -1,4 +1,4 @@
-# Project - Bellabeat Data Analysis Case Study
+# Bellabeat Data Analysis Case Study
 
 **We followed a six step analysis process**
 
@@ -53,5 +53,4 @@
 
 **Documentation** - <https://github.com/kunalbarthwal/portfolio/tree/main/1.%20Bellabeat%20Case%20Study>
 
-**Presentation** - <https://github.com/kunalbarthwal/portfolio/blob/main/1.%20Bellabeat%20Case%20Study/Bellabeat%20Data%20Analysis%20Case%20Study.pptx>
 
