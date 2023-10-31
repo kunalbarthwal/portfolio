@@ -29,6 +29,9 @@ I'm a versatile individual with experience collecting, transforming and organizi
 * The data cleaning process included removing duplicates for *ride_id*, changing datatypes of some columns, creating new columns for *trip_duration* and *day* & renaming columns for ease of use.
 * We will verify data integrity via summary statistics functions like *head*, *describe* & *info*.
 
+<img src="2. Divvy Bikeshare Case Study/Data Visualization/Bikes used per Day - Casual Customers.png" class="img-responsive" alt="">
+
+
 ### Step 4 - ANALYZE
 * People tend to use electric bikes the most (52.82%), followed by classic bikes (45.44%).
 * Casual customers prefer electric bikes over classic bikes, by a margin of 15%.
@@ -40,18 +43,14 @@ I'm a versatile individual with experience collecting, transforming and organizi
 * Most popular stations for Annual members are *Kingsbury St & Kinzie St*, *Clark St & Elm St* and *Clinton St & Washington Blvd*. These areas have apartments, businesses, corporate offices and services like shipping, ecommerce, etc. which confirms that annual members use bikes mostly for commuting to work.
 * According to statistical data, average ride duration of casual customers (19:48) is almost twice as annual members (10:50).
 
-<img src="2. Divvy Bikeshare Case Study/Data Visualization/Bikes used per Day - Casual Customers.png" class="img-responsive" alt="">
-
 <img src="2. Divvy Bikeshare Case Study/Data Visualization/Bikes used per hour - Casual Customers.png" class="img-responsive" alt="">
-
-<img src="2. Divvy Bikeshare Case Study/Data Visualization/Most Popular Start Stations - Casual Customers.png" class="img-responsive" alt="">
 
 
 ### Step 5 - SHARE
 * We will now create data visualizations using Matplotlib and Shapely libraries in Python.
 * Then, we will draft an effective presentation.
 
-<img src="2. Divvy Bikeshare Case Study/Data Visualization/Analysis.png" class="img-responsive" alt="">
+<img src="2. Divvy Bikeshare Case Study/Data Visualization/Most Popular Start Stations - Casual Customers.png" class="img-responsive" alt="">
 
 
 ### Step 6 - ACT
