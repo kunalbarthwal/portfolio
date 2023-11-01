@@ -36,7 +36,7 @@
 
 ## Step 5 - SHARE
 * We will now create data visualizations using Tableau.
-* Then, we will draft an effective presentation for our meeting with the stakeholders.
+* Then, we will draft an effective presentation.
 
 <img src="Tableau Visualizations/Daily Active Distance.png" class="img-responsive" alt="">
 
