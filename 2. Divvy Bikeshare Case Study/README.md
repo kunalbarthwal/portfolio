@@ -2,7 +2,7 @@
 
 **We followed a six step analysis process**
 
-**Tools** - Python, Pandas , NumPy, Matplotlib
+**Tools** - Python (Pandas , NumPy, Matplotlib and Plotly)
 
 
 ## Step 1 - ASK 
