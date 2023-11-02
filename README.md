@@ -39,7 +39,7 @@ This repository showcases some of my analytics projects.
 * According to statistical data, average ride duration of casual customers (19:48) is almost twice as annual members (10:50).
 
 ### Step 5 - SHARE
-* We will now create data visualizations using Matplotlib and Shapely libraries in Python.
+* We will now create data visualizations using Matplotlib and Plotly libraries in Python.
 * Then, we will draft an effective presentation.
 
 <img src="2. Divvy Bikeshare Case Study/Data Visualization/Bikes used per Day - Casual Customers.png" class="img-responsive" alt="">
